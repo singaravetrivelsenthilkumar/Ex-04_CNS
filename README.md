@@ -1,6 +1,6 @@
 # Ex-04
 # DEMONSTRATION OF INTRUSION DETECTION SYSTEM(IDS) 
-# DATE : 25/04/24
+# DATE : 28/04/24
 # AIM: 
          To demonstrate Intrusion Detection System (IDS) using Snort software tool. 
  
